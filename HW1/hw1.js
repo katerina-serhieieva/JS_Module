@@ -38,6 +38,8 @@ console.log(typeof o);
 console.log(typeof p);
 console.log(typeof q);
 
-
-
+let name = prompt('What is your name?', 'type your name');
+console.log('user name: ' + name)
+let age = Number(prompt('What is your age?', 'type your age'));
+console.log('age: ' + age)
 
