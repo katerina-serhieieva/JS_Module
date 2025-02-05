@@ -42,4 +42,5 @@ let name = prompt('What is your name?', 'type your name');
 console.log('user name: ' + name)
 let age = Number(prompt('What is your age?', 'type your age'));
 console.log('age: ' + age)
-
+let midName = prompt('What is your name?', 'type your middle name');
+console.log('middle name: ' + midName)
